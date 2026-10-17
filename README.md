@@ -46,29 +46,6 @@ AP_DS/
 - `General`: General course notes and references.
 - `Document`: Coursework documentation and supplementary materials.
 
----
-
-## 📑 Practical Works (TPs) Summary
-
-### 🔹 TP 1: Python Programming Practices, Clean Code & PEP 8
-
-This practical session introduces software engineering fundamentals and Python best practices essential for data science applications:
-
-- **Core Python Concepts**:
-  - Distinguishing functions, methods, classes, variables, constants, modules, and packages.
-- **Clean Code Principles**:
-  - Crafting code that is intuitive, readable, modular, and easy to maintain.
-  - Designing clear variable names, concise logic, and separation of concerns.
-- **PEP 8 Compliance**:
-  - **Indentation:** Consistent 4 spaces per indentation level.
-  - **Line Length:** Kept within 79 characters.
-  - **Imports:** Grouped and placed at the top of files.
-  - **Naming Conventions:** `snake_case` for functions/variables, `PascalCase` for classes, and `UPPER_CASE` for constants.
-  - **Whitespace:** Proper spacing around operators and after delimiters.
-- **Debugging & Code Quality**:
-  - Reading tracebacks, identifying bug sources, iterative testing, and eliminating unnecessary hardcoding.
-
----
 
 ## 🚀 Getting Started
 
